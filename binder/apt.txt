@@ -1,2 +1,1 @@
-matplotlib
 fonts-humor-sans
