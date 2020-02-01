@@ -1,3 +1,7 @@
 dependencies:
   - matplotlib
   - numpy
+  - statsmodels
+  - pandas
+  - scipy
+  - researchpy
